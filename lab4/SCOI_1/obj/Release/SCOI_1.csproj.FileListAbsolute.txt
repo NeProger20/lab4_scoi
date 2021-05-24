@@ -1,0 +1,13 @@
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\bin\Release\SCOI_1.exe.config
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\bin\Release\SCOI_1.exe
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\bin\Release\SCOI_1.pdb
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.Form1.resources
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.Properties.Resources.resources
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.csproj.GenerateResource.cache
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.csproj.CoreCompileInputs.cache
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.exe
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.pdb
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.csprojAssemblyReference.cache
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.Form2.resources
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.Form3.resources
+C:\Users\prosy\source\repos\SCOI_1\SCOI_1\obj\Release\SCOI_1.MainForm.resources
